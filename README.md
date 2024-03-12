@@ -24,6 +24,10 @@ Truffle - Smart Contract
 NextJS
 ```
 
+## Deployed Link
+
+Link -> https://streamx-liart.vercel.app/
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
