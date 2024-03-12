@@ -1,6 +1,6 @@
 # STREAMX
 
-Streamx is a Web3 Based Streaming Project . We have Tried To Convert Web2 Twitch to Web3 Streamx Streaming Website.
+Streamx is a groundbreaking project that aims to revolutionize the streaming industry by leveraging the power of Web3 technology. Unlike traditional streaming platforms like Twitch, which operate on Web2 infrastructure, Streamx utilizes the Near blockchain to offer a decentralized and censorship-resistant streaming experience.
 ## Installation
 
 
